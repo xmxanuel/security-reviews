@@ -42,7 +42,7 @@ Manuel also actively contributes to projects like [Radicle Drips](https://github
 
 | Project         | Date          | Report                                                  |
 |-----------------|---------------|---------------------------------------------------------|
-| Llama Governor  | December 2023 | [Report](portfolio/spearbit/Llama-Spearbit-Security-Governor.pdf)  |
+| Llama Governor  | December 2023 | [Report](portfolio/spearbit/Llama-Spearbit-Security-Review-Governor.pdf)  |
 | Llama Strategies| August 2023   | [Report](portfolio/spearbit/Llama-Spearbit-Strategies.pdf)         |
 | Llama           | May 2023      | [Report](portfolio/spearbit/Llama-Spearbit-Security-Review.pdf)    |
 
