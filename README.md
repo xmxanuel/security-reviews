@@ -2,11 +2,10 @@
 
 This public repository serves as a profile of my security related work.
 
-I am working as a security researcher (SR) mostly for Ethereum/EVM at [Spearbit](https://spearbit.com).
+I work as a security researcher (SR), focusing primarily on Ethereum/EVM, at [Spearbit](https://spearbit.com).
 
 # Cantina Profile
-
-If you want to work with me visit my [Cantina Profile](https://cantina.xyz/u/xmxanuel/) or write to xmxanuel@proton.me or reach out on Telegram.
+You can view my [Cantina Profile](https://cantina.xyz/u/xmxanuel/), email me at xmxanuel@proton.me, or reach out on Telegram to work with me.
 
 # Bio
 Manuel began working with Ethereum in 2016. He was a Lead Solidity Engineer at [Centrifuge](https://centrifuge.io), where he designed and built smart contracts that hold a TVL of over $250 million and enabled the first RWAs on [MakerDAO](https://twitter.com/SebVentures/status/1384947049012006913)
@@ -15,7 +14,7 @@ Manuel worked over the years with multiple security companies as a client (Trail
 
 In the last two years, Manuel reviewed more than +20 codebases and found critical bugs across multiple DeFi protocols and in addition helped to improve their overall design.
 
-Manuel also actively contributes to projects like [Radicle Drips](https://github.com/drips-network/contracts/) a highly optimized streaming protocol for open source dependency funding where he was involved in the design and nowadays, mostly serves as PR reviewer. 
+Manuel also actively contributes to projects such as [Radicle Drips](https://github.com/drips-network/contracts/), a highly optimized streaming protocol for open-source dependency funding. Initially involved in the design, he now mostly serves as a PR reviewer.
 
 # Portfolio
 
