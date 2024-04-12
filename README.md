@@ -2,7 +2,7 @@
 
 This public repository serves as a profile of my security related work.
 
-I am working as a security researcher mostly for Ethereum/EVM at [Spearbit](https://spearbit.com). My role at Spearbit is `LSR` (lead security researcher).
+I am working as a security researcher focusing primarily on Ethereum/EVM at [Spearbit](https://spearbit.com). My role at Spearbit is `LSR` (lead security researcher).
 
 # Cantina Profile
 
