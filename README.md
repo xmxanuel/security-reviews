@@ -2,7 +2,7 @@
 
 This public repository serves as a profile of my security related work.
 
-I am working as a security researcher (SR) mostly for Ethereum/EVM at [Spearbit](https://spearbit.com).
+I am working as a security researcher mostly for Ethereum/EVM at [Spearbit](https://spearbit.com). My role at Spearbit is `LSR` (lead security researcher).
 
 # Cantina Profile
 
@@ -34,6 +34,9 @@ Manuel also actively contributes to projects like [Radicle Drips](https://github
 
 | Project               | Date          | Report                                             |
 |-----------------------|---------------|----------------------------------------------------|
+| zkSync - UsdcConversion  | April 2024 | in progress |
+| Uniswap Foundation - UniStaker  | April 2024 | in progress |
+| Reserve Protocol - MoonRamp  | March 2024 | [Report](portfolio/cantina/report-reserve-moonramp.pdf) |
 | Monad Orderbook       | February 2024 | [Report](portfolio/cantina/report-monad-orderbook.pdf) |
 | Sturdy Finance Fixes  | October 2023  | [Report](portfolio/cantina/report-sturdy-fix.pdf)     |
 | Sturdy Finance        | September 2023| [Report](portfolio/cantina/report-sturdy.pdf)         |
