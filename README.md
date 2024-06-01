@@ -34,8 +34,13 @@ Manuel also actively contributes to projects like [Radicle Drips](https://github
 
 | Project               | Date          | Report                                             |
 |-----------------------|---------------|----------------------------------------------------|
-| zkSync - UsdcConversion  | April 2024 | in progress |
-| Uniswap Foundation - UniStaker  | April 2024 | in progress |
+| Usual Money - Pegasus  | May 2024 | - |
+| Optimism - Safe  | May 2024 | - |
+| Usual Money - Permissioned Launch  | May 2024 | - |
+| Uniswap -  UR Calldata  | April 2024 | - |
+| Uniswap Foundation - UniStaker  | April 2024 | - |
+| zkSync - UsdcConversion  | April 2024 | - |
+| Uniswap Foundation - UniStaker  | April 2024 | - |
 | Reserve Protocol - MoonRamp  | March 2024 | [Report](portfolio/cantina/report-reserve-moonramp.pdf) |
 | Monad Orderbook       | February 2024 | [Report](portfolio/cantina/report-monad-orderbook.pdf) |
 | Sturdy Finance Fixes  | October 2023  | [Report](portfolio/cantina/report-sturdy-fix.pdf)     |
