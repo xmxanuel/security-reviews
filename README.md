@@ -34,6 +34,8 @@ Manuel also actively contributes to projects like [Radicle Drips](https://github
 
 | Project               | Date          | Report                                             |
 |-----------------------|---------------|----------------------------------------------------|
+| Berachain Governor | October 2024 | - |
+| Coinbase - Optimism Fault Proofs  | June 2024 | - |
 | Usual Money - Pegasus  | May 2024 | - |
 | Optimism - Safe  | May 2024 | - |
 | Usual Money - Permissioned Launch  | May 2024 | - |
