@@ -11,7 +11,7 @@ If you want to work with me visit my [Cantina Profile](https://cantina.xyz/u/xmx
 # Bio
 Manuel began working with Ethereum in 2016. He was a Lead Solidity Engineer at [Centrifuge](https://centrifuge.io), where he designed and built smart contracts that hold a TVL of over $250 million and enabled the first RWAs on [MakerDAO](https://twitter.com/SebVentures/status/1384947049012006913)
 
-Manuel worked over the years with multiple security companies as a client (Trail of Bits, DappHub, Least Authority, Code4Arena) and got more and more interested into security himself. He is currently serving as an Independent Security Researcher (SR) at  [Spearbit](https://github.com/spearbit/portfolio), previously at [Oak Security](https://www.oaksecurity.io/). 
+Manuel worked over the years with multiple security companies as a client (Trail of Bits, DappHub, Least Authority, Code4Arena) and got more and more interested into security himself. He is currently serving as an Independent Security Researcher (LSR) at  [Spearbit](https://github.com/spearbit/portfolio), previously at [Oak Security](https://www.oaksecurity.io/). 
 
 In the last two years, Manuel reviewed more than +20 codebases and found critical bugs across multiple DeFi protocols and in addition helped to improve their overall design.
 
