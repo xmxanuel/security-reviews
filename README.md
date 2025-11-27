@@ -10,15 +10,17 @@ If you want to work with me visit my [Cantina Profile](https://cantina.xyz/u/xmx
 
 # Bio
 
-Manuel is a security researcher specializing in Ethereum and EVM at Spearbit, where he serves as a Lead Security Researcher (LSR). He holds a BSc in Computer Science from [TU Graz](https://www.tugraz.at/) and an MSc in Computer Science from [FU Berlin](https://www.fu-berlin.de/). His journey with Ethereum began in 2016.
+Manuel is a security researcher specializing in Ethereum and EVM at Spearbit, where he serves as a Lead Security Researcher (LSR). His journey with Ethereum began in 2016.
 
-Over the past three years, he has reviewed more than 30 codebases, uncovered critical vulnerabilities across multiple DeFi protocols, and contributed to improving their overall design.
+Over the past three years, he has reviewed more than 50 codebases, uncovered critical vulnerabilities across multiple DeFi protocols, and contributed to improving their overall design.
 
 At Spearbit, Manuel has reviewed codebases for Uniswap, Base, Optimism, MakerDAO, Aztec, Usual, Monad, OP-succinct, Llama, and many more.
 
 Previously, he was a Lead Engineer at [Centrifuge](https://centrifuge.io), where he designed and developed smart contracts securing over $250 million in TVL and enabled the first real-world assets (RWAs) on [MakerDAO](https://twitter.com/SebVentures/status/1384947049012006913).
 
 Manuel worked over the years with multiple security companies as a client (Trail of Bits, DappHub, Least Authority, Code4Arena). Over time, his growing interest in security led him to fully transition into the field. He is currently serving as an Independent Security Researcher (LSR) at [Spearbit](https://github.com/spearbit/portfolio), previously at [Oak Security](https://www.oaksecurity.io/). 
+
+He holds a BSc in Computer Science from [TU Graz](https://www.tugraz.at/) and an MSc in Computer Science from [FU Berlin](https://www.fu-berlin.de/). 
 
 Manuel also actively contributed to projects like [Radicle Drips](https://github.com/drips-network/contracts/) a highly optimized streaming protocol for open source dependency funding where he was involved in the design and reviewed all PRs of the first versions. 
 
@@ -29,6 +31,14 @@ Manuel also actively contributed to projects like [Radicle Drips](https://github
 
 | Project               | Date          | Report                                             |
 |-----------------------|---------------|----------------------------------------------------|
+| Sky/MakerDao - USDS Bridge Migration | November 2025 | - |
+| Sky/MakerDAO - Grove, NTTMigration, Sky-Guard | October 2025 | - |
+| Aztec - Rollup Contracts | September 2025 | - |
+| Aztec - Governance Contracts | August 2025 | - |
+| Blend.Money - Protocol | July 2025 | - |
+| Uniswap - V3FeeManager | June 2025 | - |
+| Usual Money, ETH0 Protocol | May 2025 | - |
+| Usual Money - UsualSP | May 2025 | - |
 | Sky/MakerDAO - sp-beam | March 2025 | - |
 | Sky/MakerDAO - spark-alm-controller  | March 2025 | - |
 | op-succinct- FaultDisputeGame | February 2025 | - |
@@ -71,6 +81,11 @@ I'm mostly working on regular security reviews and didn't participate in many pu
 
 | Project                     | Date                  | Report                                                       |
 |-----------------------------|-----------------------|--------------------------------------------------------------|
+| Centrifuge: v3.0.1 QueueManager, Gateway | October 2025  | -   |
+| Centrifuge: V3.0.1 PR Requests | August 2025  | -   |
+| Centrifuge: Protocol v3 Fixes | June 2025  | -   |
+| Centrifuge: Protocol v3 | May 2025  | -   |
+| Centrifuge: Protocol v3 | April 2025  | -   |
 | Centrifuge: protocol-v3 | March 2025  | -   |
 | Centrifuge: protocol-v3 - Architecture Review | Febuary 2025  | -   |
 | Centrifuge: Liquidity Pools| June 2024  | -   |
