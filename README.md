@@ -31,31 +31,33 @@ Manuel also actively contributed to projects like [Radicle Drips](https://github
 
 | Project               | Date          | Report                                             |
 |-----------------------|---------------|----------------------------------------------------|
-| Sky/MakerDao - USDS Bridge Migration | November 2025 | - |
-| Sky/MakerDAO - Grove, NTTMigration, Sky-Guard | October 2025 | - |
+| Sky/MakerDao - USDS Bridge Migration | November 2025 | [Cantina Reports](https://cantina.xyz/portfolio/7e9cf72b-0b80-4a65-9db9-f1f06634bd81) |
+| Sky/MakerDAO - Grove | October 2025 | - |
+| Sky/MakerDAO - NTTMigration  | October 2025 | [Migration NTT Manager Solana](https://cantina.xyz/portfolio/e976f54a-e1f1-4494-8907-6d5a4cdbb516) [Migration NTT Manager EVM](https://cantina.xyz/portfolio/281a79ea-0a83-4cdf-93db-83e0de4d7689) [Cross-chain Payloads](https://cantina.xyz/portfolio/2144fc02-ed9e-44fc-a11f-9700b117d90a) |
+| Sky/MakerDAO - SkyGuard  | October 2025 | [Report](https://cantina.xyz/portfolio/af6da668-1831-43da-8bcd-0ae987238e12) |
 | Aztec - Rollup Contracts | September 2025 | - |
 | Aztec - Governance Contracts | August 2025 | - |
-| Blend.Money - Protocol | July 2025 | - |
+| Blend.Money - Protocol | July 2025 | [Report](https://github.com/BlendMoney/audits/blob/main/blend-25-08-10-0-cantinacode.pdf) |
 | Uniswap - V3FeeManager | June 2025 | - |
-| Usual Money, ETH0 Protocol | May 2025 | - |
-| Usual Money - UsualSP | May 2025 | - |
-| Sky/MakerDAO - sp-beam | March 2025 | - |
-| Sky/MakerDAO - spark-alm-controller  | March 2025 | - |
-| op-succinct- FaultDisputeGame | February 2025 | - |
+| Usual Money - ETH0 Protocol | May 2025 | [Usual Audits](https://cantina.xyz/portfolio/59d06a62-e7be-4e21-a2e6-eea0098388fb) |
+| Usual Money - UsualSP | May 2025 | [Usual Audits](https://tech.usual.money/security-and-audits/audits) |
+| Sky/MakerDAO - sp-beam | March 2025 | [Cantina Reports](https://cantina.xyz/portfolio/590a7081-fd1e-40d5-8774-8ee7b07fbc5d) |
+| Sky/MakerDAO - spark-alm-controller  | March 2025 | [Cantina Reports](https://cantina.xyz/portfolio/c5408301-e8d5-4d84-b758-ac8d1f4d987f) |
+| op-succinct- FaultDisputeGame | February 2025 | [Report](https://github.com/succinctlabs/op-succinct/blob/main/audits/OP%20Succinct%20Lite%20Spearbit.pdf) |
 | Aztec teegeeee  | February 2025 | - |
-| Usual Money - Yield Module | February - 2025 | - |
-| Usual Money - Euler Vault Integration | February 2025 | - |
-| Usual Money - Usual Distribution | Januar - 2025 | - |
-| Usual Money - UsualX Bug Review | December - 2024 | - |
-| Usual Money - USD0++ Redemption, Fee Mechanism | December - 2024 | - |
-| Usual Money - deploy scripts | November 2024 | - |
+| Usual Money - Yield Module | February 2025 | [Usual Audits](https://tech.usual.money/security-and-audits/audits) |
+| Usual Money - Euler Vault Integration | February 2025 | [Usual Audits](https://tech.usual.money/security-and-audits/audits) |
+| Usual Money - Usual Distribution | January 2025 | [Usual Audits](https://tech.usual.money/security-and-audits/audits) |
+| Usual Money - UsualX Bug Review | December 2024 | [Usual Audits](https://tech.usual.money/security-and-audits/audits) |
+| Usual Money - USD0++ Redemption, Fee Mechanism | December 2024 | [Usual Audits](https://tech.usual.money/security-and-audits/audits) |
+| Usual Money - deploy scripts | November 2024 | [Usual Audits](https://tech.usual.money/security-and-audits/audits) |
 | Berachain Governor | October 2024 | - |
-| Usual Money - Pegasus  | May 2024 | - |
+| Usual Money - Pegasus  | May 2024 | [Usual Audits](https://tech.usual.money/security-and-audits/audits) |
 | Optimism - Safe  | May 2024 | - |
-| Usual Money - Permissioned Launch  | May 2024 | - |
+| Usual Money - Permissioned Launch  | May 2024 | [Usual Audits](https://tech.usual.money/security-and-audits/audits) |
 | Uniswap -  UR Calldata  | April 2024 | - |
 | zkSync - UsdcConversion  | April 2024 | - |
-| Uniswap Foundation - UniStaker  | April 2024 | - |
+| Uniswap Foundation - UniStaker  | April 2024 | [Report](https://github.com/uniswapfoundation/UniStaker/blob/main/audits/2024_04_UniStaker_Cantina_Report.pdf) |
 | Reserve Protocol - MoonRamp  | March 2024 | [Report](portfolio/cantina/report-reserve-moonramp.pdf) |
 | Monad Orderbook       | February 2024 | [Report](portfolio/cantina/report-monad-orderbook.pdf) |
 | Sturdy Finance Fixes  | October 2023  | [Report](portfolio/cantina/report-sturdy-fix.pdf)     |
@@ -84,8 +86,8 @@ I'm mostly working on regular security reviews and didn't participate in many pu
 | Centrifuge: v3.0.1 QueueManager, Gateway | October 2025  | -   |
 | Centrifuge: V3.0.1 PR Requests | August 2025  | -   |
 | Centrifuge: Protocol v3 Fixes | June 2025  | -   |
-| Centrifuge: Protocol v3 | May 2025  | -   |
-| Centrifuge: Protocol v3 | April 2025  | -   |
+| Centrifuge: Protocol v3 | May 2025  | [Report](https://github.com/centrifuge/protocol/blob/main/docs/audits/2025-07-xmxanuel.pdf)   |
+| Centrifuge: Protocol v3 | April 2025  | [Report](https://github.com/centrifuge/protocol/blob/main/docs/audits/2025-03-xmxanuel.pdf)   |
 | Centrifuge: protocol-v3 | March 2025  | -   |
 | Centrifuge: protocol-v3 - Architecture Review | Febuary 2025  | -   |
 | Centrifuge: Liquidity Pools| June 2024  | -   |
