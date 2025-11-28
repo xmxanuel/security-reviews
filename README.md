@@ -53,7 +53,7 @@ Manuel also actively contributed to projects like [Radicle Drips](https://github
 | Usual Money - Euler Vault Integration | February 2025 | [Report](https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2FM9fwC3lrmoXsV51iAmhX%2FSpearbit%20-%20Audit%20Report%20on%20USL%20on%20Euler.pdf?alt=media&token=c119331a-f652-4d13-ac9a-648efcb79eda) |
 | Usual Money - Usual Distribution | January 2025 | [Report](https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2FJd3MEliEfOdTpLn8Lj1c%2FSpearbit%20Cantina%20Report%20for%20USD0pp%20adjustments%20.pdf?alt=media&token=17983c8d-8443-436c-b4da-94bdcab5237d) |
 | Usual Money - UsualX Bug Review | December 2024 | Not published |
-| Usual Money - USD0++ Redemption, Fee Mechanism | December 2024 | [Report](https://tech.usual.money/security-and-audits/audits) |
+| Usual Money - USD0++ Redemption, Fee Mechanism | December 2024 | Not published |
 | Usual Money - deploy scripts | November 2024 | Not published|
 | Berachain Governor | October 2024 | [Report](https://github.com/berachain/security-audits/blob/main/20241024-Gov-Spearbit.pdf) |
 | Usual Money - Pegasus  | May 2024 | [Report](https://1503334455-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FpUhQzPJGdJzuLTQ5sCym%2Fuploads%2FKVqreB0coxbKmJoOxJhc%2FUsual%20Pegasus%20-%20Security%20Review%20by%20Cantina.pdf?alt=media&token=94aee9af-0170-412e-a807-113a725d88ac) |
