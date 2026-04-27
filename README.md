@@ -1,28 +1,16 @@
-# Security Reviews - Portfolio
+# Security Reviews — Portfolio
 
-This public repository serves as a profile of my security related work.
+Lead Security Researcher (LSR) at [Spearbit](https://spearbit.com), focused on Ethereum/EVM. 60+ reviews since 2021 across Uniswap, Sky/MakerDAO, Optimism, Base, Aztec, Monad, Centrifuge, Usual, and more.
 
-I am working as a security researcher focusing primarily on Ethereum/EVM at [Spearbit](https://spearbit.com). My role at Spearbit is `LSR` (lead security researcher).
-
-# Cantina Profile
-
-If you want to work with me visit my [Cantina Profile](https://cantina.xyz/u/xmxanuel/) or write to xmxanuel@proton.me or reach out on Telegram.
+**Contact:** [Cantina Profile](https://cantina.xyz/u/xmxanuel/)  - xmxanuel@proton.me  - Telegram
 
 # Bio
 
-Manuel is a security researcher specializing in Ethereum and EVM at Spearbit, where he serves as a Lead Security Researcher (LSR). His journey with Ethereum began in 2016.
+Manuel has been working with Ethereum since 2016. Over the past four years at Spearbit/Cantina, he has uncovered high-impact vulnerabilities across DeFi, L2s, governance, and bridges, and contributed to their overall design.
 
-Over the past three years, he has reviewed more than 50 codebases, uncovered critical vulnerabilities across multiple DeFi protocols, and contributed to improving their overall design.
+Previously, he was a Lead Engineer at [Centrifuge](https://centrifuge.io), where he designed and developed smart contracts securing over $250M in TVL and enabled the first real-world assets (RWAs) on [MakerDAO](https://twitter.com/SebVentures/status/1384947049012006913). In that role, he worked closely with security companies on audits and gained engineering-side perspective on the review process.
 
-At Spearbit, Manuel has reviewed codebases for Uniswap, Base, Optimism, MakerDAO, Aztec, Usual, Monad, OP-succinct, Llama, and many more.
-
-Previously, he was a Lead Engineer at [Centrifuge](https://centrifuge.io), where he designed and developed smart contracts securing over $250 million in TVL and enabled the first real-world assets (RWAs) on [MakerDAO](https://twitter.com/SebVentures/status/1384947049012006913).
-
-Manuel worked over the years with multiple security companies as a client (Trail of Bits, DappHub, Least Authority, Code4Arena). Over time, his growing interest in security led him to fully transition into the field. He is currently serving as an Independent Security Researcher (LSR) at [Spearbit](https://github.com/spearbit/portfolio), previously at [Oak Security](https://www.oaksecurity.io/). 
-
-He holds a BSc in Computer Science from [TU Graz](https://www.tugraz.at/) and an MSc in Computer Science from [FU Berlin](https://www.fu-berlin.de/). 
-
-Manuel also actively contributed to projects like [Radicle Drips](https://github.com/drips-network/contracts/) a highly optimized streaming protocol for open source dependency funding where he was involved in the design and reviewed all PRs of the first versions. 
+He also contributed to [Radicle Drips](https://github.com/drips-network/contracts/), a highly optimized streaming protocol for open-source dependency funding, where he helped design the system and reviewed all PRs of the first versions.
 
 # Portfolio
 
@@ -30,7 +18,18 @@ Manuel also actively contributed to projects like [Radicle Drips](https://github
 
 | Project | Client | Date | Report |
 |---------|--------|------|--------|
-| Sky/MakerDao - USDS Bridge Migration | Cantina | November 2025 | [Report](https://cantina.xyz/portfolio/7e9cf72b-0b80-4a65-9db9-f1f06634bd81) |
+| Sky/MakerDAO - Grove Spell Reviews (Monthly) | Cantina | Jan–Apr 2026 | [PR Reviews](https://github.com/grove-labs/grove-spells/) |
+| Sky/MakerDAO - Skylink Bridge Deployment Avalanche | Cantina | April 2026 | [Report](https://cantina.xyz/portfolio/8deb51bb-909d-4419-a289-10c105e0269e) |
+| Sky/MakerDAO - Skylink Bridge Deployment Plasma | Cantina | April 2026 | - |
+| Sky/MakerDAO - Diamond PAU | Cantina | March 2026 | [Report](https://cantina.xyz/portfolio/15cf9a53-3671-4b68-88ee-13570a5ebd03) |
+| Sky/MakerDAO - Spark Saving Intents | Cantina | March 2026 | [Report](https://cantina.xyz/portfolio/bb64c224-5874-4bd5-8f42-7dec572c2709) |
+| Centrifuge - OnChain PM (Weiroll Executor) | Solo | March 2026 | - |
+| Centrifuge - Consulting/Architecture merkle-proof-manager-v2 | Solo | February 2026 | - |
+| Usual Money - SwapperHelper, DistributionModule | Cantina | February 2026 | - |
+| Tare - Smart Contracts/Architecture Review | Solo | January 2026 | - |
+| Sky/MakerDAO - spark-alm-controller, Hyperdrive | Cantina | December 2025 | - |
+| Centrifuge - Protocol v3.1 Fixes and Cross Pool Security | Solo | December 2025 | [Report](https://github.com/centrifuge/protocol/blob/main/docs/audits/2025-12-xmxanuel.pdf) |
+| Sky/MakerDAO - USDS Bridge Migration | Cantina | November 2025 | [Report](https://cantina.xyz/portfolio/7e9cf72b-0b80-4a65-9db9-f1f06634bd81) |
 | Centrifuge: v3.0.1 QueueManager, Gateway | Solo | October 2025 | - |
 | Sky/MakerDAO - Grove | Cantina | October 2025 | Not published |
 | Sky/MakerDAO - NTTMigration - Solana | Cantina | October 2025 | [Report](https://cantina.xyz/portfolio/e976f54a-e1f1-4494-8907-6d5a4cdbb516) |
